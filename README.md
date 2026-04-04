@@ -146,7 +146,7 @@ This repository is a **structured roadmap** to go from beginner → placement-re
 
 ### Week 1–2
 
-* [ ] Arrays
+* [3] Arrays
 * [ ] Strings
 
 ### Week 3–4
