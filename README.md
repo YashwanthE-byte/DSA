@@ -1,212 +1,215 @@
-🚀 Engineering
+# 🚀 Engineering Placement University
 
+> 🎯 A complete roadmap to crack software engineering placements (DSA + Core CS + Projects)
 
+---
 
+## 📌 What is this?
 
+This repository is a **structured roadmap** to go from beginner → placement-ready engineer.
 
-🎯 A complete roadmap to crack software engineering placements (DSA + Core CS + Projects)
+---
 
-📌 What is this?
+## 🧭 How to Use
 
-This repository is a structured roadmap to go from beginner → placement-ready engineer.
+* Follow topics in order
+* Mark completed topics (`[x]`)
+* Practice daily (1–2 hrs)
+* Revise weekly
 
-🧭 How to Use
-Follow topics in order
-Mark completed topics ([x])
-Practice daily (1–2 hrs)
-Revise weekly
-📚 Table of Contents
-🧠 Prerequisites
-⚡ Programming Basics
-📦 Data Structures
-⚡ Algorithms
-🧠 Core Subjects
-🌐 Development
-🛠️ Projects
-📅 Study Plan
-🎯 Interview Prep
-🧠 Prerequisites
+---
 
-Basic programming (C/C++/Java/Python)
+## 📚 Table of Contents
 
-Problem solving
+* [🧠 Prerequisites](#-prerequisites)
+* [⚡ Programming Basics](#-programming-basics)
+* [📦 Data Structures](#-data-structures)
+* [⚡ Algorithms](#-algorithms)
+* [🧠 Core Subjects](#-core-subjects)
+* [🌐 Development](#-development)
+* [🛠️ Projects](#️-projects)
+* [📅 Study Plan](#-study-plan-8-weeks)
+* [🎯 Interview Preparation](#-interview-preparation)
 
-Git & GitHub
+---
 
-⚡ Programming Basics
+## 🧠 Prerequisites
 
-Variables
+* [ ] Basic programming (C/C++/Java/Python)
+* [ ] Problem solving
+* [ ] Git & GitHub
 
-Loops
+---
 
-Functions
+## ⚡ Programming Basics
 
-Recursion
+* [ ] Variables
+* [ ] Loops
+* [ ] Functions
+* [ ] Recursion
+* [ ] Time Complexity
 
-Time Complexity
+---
 
-📦 Data Structures
-Arrays
+## 📦 Data Structures
 
-Basics
+### Arrays
 
-Sliding Window → https://leetcode.com/tag/sliding-window/
+* [ ] Basics
+* [ ] [Sliding Window](https://leetcode.com/tag/sliding-window/)
+* [ ] Prefix Sum
 
-Prefix Sum
+### Linked List
 
-Linked List
+* [ ] Singly LL
+* [ ] Doubly LL
+* [ ] [Cycle Detection](https://leetcode.com/problems/linked-list-cycle/)
 
-Singly LL
+### Stack & Queue
 
-Doubly LL
+* [ ] Stack
+* [ ] Queue
+* [ ] Monotonic Stack
 
-Cycle Detection → https://leetcode.com/problems/linked-list-cycle/
+### Trees
 
-Stack & Queue
+* [ ] Binary Tree
+* [ ] BST
+* [ ] Traversals
 
-Stack
+### Graphs
 
-Queue
+* [ ] BFS
+* [ ] DFS
+* [ ] Shortest Path
 
-Monotonic Stack
+---
 
-Trees
+## ⚡ Algorithms
 
-Binary Tree
+* [ ] Sorting
+* [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
+* [ ] Backtracking
+* [ ] Dynamic Programming
+* [ ] Greedy
 
-BST
+---
 
-Traversals
+## 🧠 Core Subjects
 
-Graphs
+### Operating System
 
-BFS
+* [ ] Process vs Thread
+* [ ] Deadlock
+* [ ] Scheduling
 
-DFS
+### DBMS
 
-Shortest Path
+* [ ] [SQL Basics](https://www.w3schools.com/sql/)
+* [ ] Joins
+* [ ] Normalization
 
-⚡ Algorithms
+### Computer Networks
 
-Sorting
+* [ ] OSI Model
+* [ ] TCP/IP
+* [ ] HTTP/HTTPS
 
-Binary Search → https://leetcode.com/problems/binary-search/
+---
 
-Backtracking
+## 🌐 Development
 
-Dynamic Programming
+### Frontend
 
-Greedy
+* [ ] [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [ ] CSS
+* [ ] JavaScript
 
-🧠 Core Subjects
-Operating System
+### Backend
 
-Process vs Thread
+* [ ] Node.js
+* [ ] APIs
+* [ ] Authentication
 
-Deadlock
+---
 
-Scheduling
+## 🛠️ Projects
 
-DBMS
+* [ ] Weather App 🌦️
+* [ ] Chat App 💬
+* [ ] Portfolio 🌐
+* [ ] E-commerce 🛒
 
-SQL → https://www.w3schools.com/sql/
+---
 
-Joins
+## 📅 Study Plan (8 Weeks)
 
-Normalization
+### Week 1–2
 
-Computer Networks
+* [ ] Arrays
+* [ ] Strings
 
-OSI Model
+### Week 3–4
 
-TCP/IP
+* [ ] Linked List
+* [ ] Stack
 
-HTTP/HTTPS
+### Week 5–6
 
-🌐 Development
-Frontend
+* [ ] Trees
+* [ ] Graphs
 
-HTML → https://developer.mozilla.org/en-US/docs/Web/HTML
+### Week 7
 
-CSS
+* [ ] Dynamic Programming
 
-JavaScript
+### Week 8
 
-Backend
+* [ ] Mock Interviews
+* [ ] Resume
 
-Node.js
+---
 
-APIs
+## 🎯 Interview Preparation
 
-Authentication
+* [ ] Solve 150+ problems
+* [ ] Mock interviews
+* [ ] HR questions
+* [ ] Resume
 
-🛠️ Projects
+---
 
-Weather App 🌦️
+## ⭐ Resources
 
-Chat App 💬
+### Practice
 
-Portfolio 🌐
+* https://leetcode.com
+* https://www.geeksforgeeks.org
+* https://www.codingninjas.com
 
-E-commerce 🛒
+### YouTube
 
-📅 Study Plan (8 Weeks)
-Week 1–2
+* Abdul Bari
+* Love Babbar
+* Take U Forward
 
-Arrays
+---
 
-Strings
+## 💡 Pro Tips
 
-Week 3–4
+* Consistency > Motivation
+* Focus on understanding
+* Revise regularly
+* Build projects
 
-Linked List
+---
 
-Stack
-
-Week 5–6
-
-Trees
-
-Graphs
-
-Week 7
-
-Dynamic Programming
-
-Week 8
-
-Mock Interviews
-
-Resume
-
-🎯 Interview Preparation
-
-Solve 150+ problems
-
-Mock interviews
-
-HR questions
-
-Resume
-
-⭐ Resources
-Practice
-https://leetcode.com
-https://www.geeksforgeeks.org
-https://www.codingninjas.com
-YouTube
-Abdul Bari
-Love Babbar
-Take U Forward
-💡 Pro Tips
-Consistency > Motivation
-Focus on understanding
-Revise regularly
-Build projects
-⭐ Support
+## ⭐ Support
 
 If this helps you:
 👉 Star this repo
 👉 Share with friends
+
+---
 
 🔥 Become placement-ready. Start today.
