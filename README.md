@@ -1,4 +1,4 @@
-# 🚀 Engineering Placement University
+# 🚀 My RoadMap
 
 > 🎯 A complete roadmap to crack software engineering placements (DSA + Core CS + Projects)
 
