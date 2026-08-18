@@ -46,11 +46,11 @@ Topics Covered
 Progress
 
 Topic| Problems Solved
-Arrays| 21
-Strings| 2
-Hashing| 4
-Two Pointers| 7
-Sliding Window| 4
+Arrays| 17
+Strings| 4
+Hashing| 5
+Two Pointers| 9
+Sliding Window| 5
 Prefix Sum| 1
 Sorting| 4
 Binary Search| 0
@@ -72,6 +72,12 @@ Intervals| 0
 Trie| 0
 
 Total Unique Problems Solved: 21
+
+---
+
+Goal
+
+Solve 300+ DSA problems and improve problem-solving skills for coding interviews.
 
 ---
 
