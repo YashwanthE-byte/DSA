@@ -350,6 +350,7 @@ Consistency is the key to becoming a better problem solver.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/YashwanthE-byte/code-with-me/tree/master/0209-minimum-size-subarray-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YashwanthE-byte/code-with-me/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
@@ -358,8 +359,10 @@ Consistency is the key to becoming a better problem solver.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/YashwanthE-byte/code-with-me/tree/master/0209-minimum-size-subarray-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YashwanthE-byte/code-with-me/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/YashwanthE-byte/code-with-me/tree/master/0209-minimum-size-subarray-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YashwanthE-byte/code-with-me/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
