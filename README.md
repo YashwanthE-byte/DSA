@@ -349,6 +349,7 @@ Consistency is the key to becoming a better problem solver.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YashwanthE-byte/code-with-me/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/YashwanthE-byte/code-with-me/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YashwanthE-byte/code-with-me/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
@@ -365,4 +366,8 @@ Consistency is the key to becoming a better problem solver.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/YashwanthE-byte/code-with-me/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YashwanthE-byte/code-with-me/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/YashwanthE-byte/code-with-me/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
