@@ -376,3 +376,19 @@ Arrays → Hashing → Two Pointers → Sliding Window → Prefix Sum → Binary
 Consistency is the key to becoming a better problem solver.
 
 🚀 DSA in Java | Problem Solving | Coding Interviews
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/YashwanthE-byte/code-with-me/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/YashwanthE-byte/code-with-me/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/YashwanthE-byte/code-with-me/tree/master/0217-contains-duplicate) |
+<!---LeetCode Topics End-->
