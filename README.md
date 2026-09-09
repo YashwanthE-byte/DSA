@@ -382,6 +382,7 @@ Consistency is the key to becoming a better problem solver.
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/YashwanthE-byte/code-with-me/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/YashwanthE-byte/code-with-me/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/YashwanthE-byte/code-with-me/tree/master/0704-binary-search) |
 ## Hash Table
@@ -408,5 +409,6 @@ Consistency is the key to becoming a better problem solver.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/YashwanthE-byte/code-with-me/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/YashwanthE-byte/code-with-me/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
