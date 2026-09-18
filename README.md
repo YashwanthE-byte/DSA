@@ -386,6 +386,7 @@ Consistency is the key to becoming a better problem solver.
 | [0035-search-insert-position](https://github.com/YashwanthE-byte/code-with-me/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/YashwanthE-byte/code-with-me/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/YashwanthE-byte/code-with-me/tree/master/0704-binary-search) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/YashwanthE-byte/code-with-me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
