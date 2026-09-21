@@ -388,6 +388,7 @@ Consistency is the key to becoming a better problem solver.
 | [0704-binary-search](https://github.com/YashwanthE-byte/code-with-me/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YashwanthE-byte/code-with-me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3483-unique-3-digit-even-numbers](https://github.com/YashwanthE-byte/code-with-me/tree/master/3483-unique-3-digit-even-numbers) |
+| [3903-smallest-stable-index-i](https://github.com/YashwanthE-byte/code-with-me/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -442,4 +443,8 @@ Consistency is the key to becoming a better problem solver.
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/YashwanthE-byte/code-with-me/tree/master/3483-unique-3-digit-even-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/YashwanthE-byte/code-with-me/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
