@@ -421,6 +421,7 @@ Consistency is the key to becoming a better problem solver.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/YashwanthE-byte/code-with-me/tree/master/0069-sqrtx) |
+| [3870-count-commas-in-range](https://github.com/YashwanthE-byte/code-with-me/tree/master/3870-count-commas-in-range) |
 ## Newton's Method
 |  |
 | ------- |
