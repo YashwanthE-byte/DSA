@@ -418,11 +418,13 @@ Consistency is the key to becoming a better problem solver.
 | [0033-search-in-rotated-sorted-array](https://github.com/YashwanthE-byte/code-with-me/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashwanthE-byte/code-with-me/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/YashwanthE-byte/code-with-me/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/YashwanthE-byte/code-with-me/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/YashwanthE-byte/code-with-me/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/YashwanthE-byte/code-with-me/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/YashwanthE-byte/code-with-me/tree/master/0367-valid-perfect-square) |
 | [3870-count-commas-in-range](https://github.com/YashwanthE-byte/code-with-me/tree/master/3870-count-commas-in-range) |
 ## Newton's Method
 |  |
