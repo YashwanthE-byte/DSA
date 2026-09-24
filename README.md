@@ -400,6 +400,7 @@ Consistency is the key to becoming a better problem solver.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/YashwanthE-byte/code-with-me/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/YashwanthE-byte/code-with-me/tree/master/0217-contains-duplicate) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/YashwanthE-byte/code-with-me/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/YashwanthE-byte/code-with-me/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -443,6 +444,7 @@ Consistency is the key to becoming a better problem solver.
 ## String
 |  |
 | ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/YashwanthE-byte/code-with-me/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/YashwanthE-byte/code-with-me/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
