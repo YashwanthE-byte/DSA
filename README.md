@@ -392,6 +392,7 @@ Consistency is the key to becoming a better problem solver.
 | [0704-binary-search](https://github.com/YashwanthE-byte/code-with-me/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YashwanthE-byte/code-with-me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3483-unique-3-digit-even-numbers](https://github.com/YashwanthE-byte/code-with-me/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashwanthE-byte/code-with-me/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/YashwanthE-byte/code-with-me/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/YashwanthE-byte/code-with-me/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -433,6 +434,7 @@ Consistency is the key to becoming a better problem solver.
 | ------- |
 | [0069-sqrtx](https://github.com/YashwanthE-byte/code-with-me/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/YashwanthE-byte/code-with-me/tree/master/0367-valid-perfect-square) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashwanthE-byte/code-with-me/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/YashwanthE-byte/code-with-me/tree/master/3870-count-commas-in-range) |
 ## Newton's Method
 |  |
