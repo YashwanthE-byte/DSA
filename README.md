@@ -386,6 +386,7 @@ Consistency is the key to becoming a better problem solver.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YashwanthE-byte/code-with-me/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashwanthE-byte/code-with-me/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashwanthE-byte/code-with-me/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/YashwanthE-byte/code-with-me/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/YashwanthE-byte/code-with-me/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/YashwanthE-byte/code-with-me/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YashwanthE-byte/code-with-me/tree/master/0540-single-element-in-a-sorted-array) |
@@ -426,6 +427,7 @@ Consistency is the key to becoming a better problem solver.
 | [0035-search-insert-position](https://github.com/YashwanthE-byte/code-with-me/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/YashwanthE-byte/code-with-me/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashwanthE-byte/code-with-me/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/YashwanthE-byte/code-with-me/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/YashwanthE-byte/code-with-me/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/YashwanthE-byte/code-with-me/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YashwanthE-byte/code-with-me/tree/master/0540-single-element-in-a-sorted-array) |
