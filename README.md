@@ -391,6 +391,7 @@ Consistency is the key to becoming a better problem solver.
 | [0162-find-peak-element](https://github.com/YashwanthE-byte/code-with-me/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/YashwanthE-byte/code-with-me/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YashwanthE-byte/code-with-me/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/YashwanthE-byte/code-with-me/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YashwanthE-byte/code-with-me/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/YashwanthE-byte/code-with-me/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/YashwanthE-byte/code-with-me/tree/master/0875-koko-eating-bananas) |
@@ -406,6 +407,7 @@ Consistency is the key to becoming a better problem solver.
 | [0141-linked-list-cycle](https://github.com/YashwanthE-byte/code-with-me/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/YashwanthE-byte/code-with-me/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YashwanthE-byte/code-with-me/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/YashwanthE-byte/code-with-me/tree/master/0349-intersection-of-two-arrays) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/YashwanthE-byte/code-with-me/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/YashwanthE-byte/code-with-me/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
@@ -413,6 +415,7 @@ Consistency is the key to becoming a better problem solver.
 | ------- |
 | [0217-contains-duplicate](https://github.com/YashwanthE-byte/code-with-me/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YashwanthE-byte/code-with-me/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/YashwanthE-byte/code-with-me/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -421,6 +424,7 @@ Consistency is the key to becoming a better problem solver.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/YashwanthE-byte/code-with-me/tree/master/0141-linked-list-cycle) |
+| [0349-intersection-of-two-arrays](https://github.com/YashwanthE-byte/code-with-me/tree/master/0349-intersection-of-two-arrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -437,6 +441,7 @@ Consistency is the key to becoming a better problem solver.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/YashwanthE-byte/code-with-me/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/YashwanthE-byte/code-with-me/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/YashwanthE-byte/code-with-me/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/YashwanthE-byte/code-with-me/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/YashwanthE-byte/code-with-me/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YashwanthE-byte/code-with-me/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/YashwanthE-byte/code-with-me/tree/master/0704-binary-search) |
