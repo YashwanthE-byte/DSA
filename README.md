@@ -468,6 +468,7 @@ Consistency is the key to becoming a better problem solver.
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/YashwanthE-byte/code-with-me/tree/master/1021-remove-outermost-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/YashwanthE-byte/code-with-me/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/YashwanthE-byte/code-with-me/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -496,4 +497,12 @@ Consistency is the key to becoming a better problem solver.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/YashwanthE-byte/code-with-me/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/YashwanthE-byte/code-with-me/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/YashwanthE-byte/code-with-me/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
