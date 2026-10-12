@@ -469,6 +469,7 @@ Consistency is the key to becoming a better problem solver.
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/YashwanthE-byte/code-with-me/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashwanthE-byte/code-with-me/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/YashwanthE-byte/code-with-me/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/YashwanthE-byte/code-with-me/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -501,8 +502,10 @@ Consistency is the key to becoming a better problem solver.
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/YashwanthE-byte/code-with-me/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashwanthE-byte/code-with-me/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/YashwanthE-byte/code-with-me/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashwanthE-byte/code-with-me/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
