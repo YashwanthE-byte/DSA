@@ -406,6 +406,7 @@ Consistency is the key to becoming a better problem solver.
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/YashwanthE-byte/code-with-me/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/YashwanthE-byte/code-with-me/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/YashwanthE-byte/code-with-me/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YashwanthE-byte/code-with-me/tree/master/0268-missing-number) |
@@ -456,6 +457,7 @@ Consistency is the key to becoming a better problem solver.
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/YashwanthE-byte/code-with-me/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/YashwanthE-byte/code-with-me/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/YashwanthE-byte/code-with-me/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/YashwanthE-byte/code-with-me/tree/master/0367-valid-perfect-square) |
@@ -468,6 +470,7 @@ Consistency is the key to becoming a better problem solver.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/YashwanthE-byte/code-with-me/tree/master/0013-roman-to-integer) |
 | [1021-remove-outermost-parentheses](https://github.com/YashwanthE-byte/code-with-me/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashwanthE-byte/code-with-me/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/YashwanthE-byte/code-with-me/tree/master/1832-check-if-the-sentence-is-pangram) |
