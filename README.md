@@ -396,6 +396,7 @@ Consistency is the key to becoming a better problem solver.
 | [0540-single-element-in-a-sorted-array](https://github.com/YashwanthE-byte/code-with-me/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/YashwanthE-byte/code-with-me/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/YashwanthE-byte/code-with-me/tree/master/0875-koko-eating-bananas) |
+| [1480-running-sum-of-1d-array](https://github.com/YashwanthE-byte/code-with-me/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/YashwanthE-byte/code-with-me/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YashwanthE-byte/code-with-me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YashwanthE-byte/code-with-me/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -491,6 +492,7 @@ Consistency is the key to becoming a better problem solver.
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/YashwanthE-byte/code-with-me/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/YashwanthE-byte/code-with-me/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/YashwanthE-byte/code-with-me/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
