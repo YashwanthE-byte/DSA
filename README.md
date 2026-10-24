@@ -399,6 +399,7 @@ Consistency is the key to becoming a better problem solver.
 | [1480-running-sum-of-1d-array](https://github.com/YashwanthE-byte/code-with-me/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/YashwanthE-byte/code-with-me/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YashwanthE-byte/code-with-me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YashwanthE-byte/code-with-me/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YashwanthE-byte/code-with-me/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/YashwanthE-byte/code-with-me/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/YashwanthE-byte/code-with-me/tree/master/3483-unique-3-digit-even-numbers) |
@@ -424,6 +425,7 @@ Consistency is the key to becoming a better problem solver.
 | [0268-missing-number](https://github.com/YashwanthE-byte/code-with-me/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/YashwanthE-byte/code-with-me/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YashwanthE-byte/code-with-me/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YashwanthE-byte/code-with-me/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
 | ------- |
@@ -457,6 +459,7 @@ Consistency is the key to becoming a better problem solver.
 | [0704-binary-search](https://github.com/YashwanthE-byte/code-with-me/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/YashwanthE-byte/code-with-me/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/YashwanthE-byte/code-with-me/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YashwanthE-byte/code-with-me/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
