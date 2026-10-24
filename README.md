@@ -400,6 +400,7 @@ Consistency is the key to becoming a better problem solver.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/YashwanthE-byte/code-with-me/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YashwanthE-byte/code-with-me/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YashwanthE-byte/code-with-me/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/YashwanthE-byte/code-with-me/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/YashwanthE-byte/code-with-me/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashwanthE-byte/code-with-me/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/YashwanthE-byte/code-with-me/tree/master/3903-smallest-stable-index-i) |
@@ -414,6 +415,7 @@ Consistency is the key to becoming a better problem solver.
 | [0349-intersection-of-two-arrays](https://github.com/YashwanthE-byte/code-with-me/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YashwanthE-byte/code-with-me/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/YashwanthE-byte/code-with-me/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/YashwanthE-byte/code-with-me/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/YashwanthE-byte/code-with-me/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -513,4 +515,12 @@ Consistency is the key to becoming a better problem solver.
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/YashwanthE-byte/code-with-me/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YashwanthE-byte/code-with-me/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/YashwanthE-byte/code-with-me/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/YashwanthE-byte/code-with-me/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
