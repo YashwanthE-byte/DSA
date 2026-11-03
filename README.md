@@ -405,6 +405,7 @@ Consistency is the key to becoming a better problem solver.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/YashwanthE-byte/code-with-me/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/YashwanthE-byte/code-with-me/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashwanthE-byte/code-with-me/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/YashwanthE-byte/code-with-me/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3903-smallest-stable-index-i](https://github.com/YashwanthE-byte/code-with-me/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/YashwanthE-byte/code-with-me/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -469,6 +470,7 @@ Consistency is the key to becoming a better problem solver.
 | [0268-missing-number](https://github.com/YashwanthE-byte/code-with-me/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/YashwanthE-byte/code-with-me/tree/master/0367-valid-perfect-square) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashwanthE-byte/code-with-me/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/YashwanthE-byte/code-with-me/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/YashwanthE-byte/code-with-me/tree/master/3870-count-commas-in-range) |
 ## Newton's Method
 |  |
